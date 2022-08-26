@@ -140,7 +140,7 @@ const HeroSection = () => {
       />
       <div className="hero">
         <div className="content">
-          <h1 className="mb-4 text-center text-4xl font-extrabold tracking-tight leading-none  md:text-5xl lg:text-6xl dark:text-white">
+          <h1 className="mb-4 text-center text-4xl font-extrabold tracking-tight leading-none  md:text-5xl lg:text-6xl text-black">
             You do not need to go to far to find what matters
           </h1>
           <p className=" text-center inline-block mb-8 text-lg  font-normal  lg:text-xl sm:px-16 transition-all   ">
